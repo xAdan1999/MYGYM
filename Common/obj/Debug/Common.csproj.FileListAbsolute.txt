@@ -1,0 +1,6 @@
+C:\Users\ucer_\OneDrive\Desktop\MYGYM\Common\bin\Debug\Common.dll
+C:\Users\ucer_\OneDrive\Desktop\MYGYM\Common\bin\Debug\Common.pdb
+C:\Users\ucer_\OneDrive\Desktop\MYGYM\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\ucer_\OneDrive\Desktop\MYGYM\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\ucer_\OneDrive\Desktop\MYGYM\Common\obj\Debug\Common.dll
+C:\Users\ucer_\OneDrive\Desktop\MYGYM\Common\obj\Debug\Common.pdb
